@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding:0;
+    outline:0;
+    box-sizing: border-box;
+}
+
+
+body{
+
+background-color: lightgray;
+font-family: 'Kaushan Script', cursive;
+margin-left: 70px;
+padding-left: 10px;
+margin-top: 20px;
+
+}
+div{
+    text-align: center;
+    box-sizing: border-box;
+    
+}
+.a{
+    background-color: aliceblue;
+    width: 250px;
+   background-attachment: fixed;
+
+}
+.b{
+
+    background-color: #6E2594;
+    color:#ffffff;
+    font-weight: 300;
+    padding:5px 10px solid black;
+    width:90%;
+    border-radius: 0px 15px 15px 0px;
+
+}
+.d{
+    text-decoration: none;
+    
+}
+.l{
+    background-color: aliceblue;
+    width: 250px;
+   background-attachment: fixed;
+   text-align: left;
+   box-sizing: border-box;
+    
+}
+.m{
+    background-color: aliceblue;
+    width: 250px;
+   background-attachment: fixed;
+   text-align: center;
+   
+
+}
+.n{
+    color:rgb(248, 102, 5)
+}
+.k:hover{
+    background-color: #6E2594;
+    color:#ffffff;
+    font-weight: 300;
+   
+    width:90%;
+    border-radius: 15px 15px 15px 15px;
+    text-decoration: dashed;
+}
+.k{
+    text-decoration: none;
+    background-color: blue;
+    border-radius: 15px 15px 15px 15px;
+    padding: 2px 20px;
+    color:aqua
+
+
+}
+
+
